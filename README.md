@@ -1,5 +1,5 @@
 # FontAwesomeKitSwift3
-Upgrade of FonAwesomeKit Icon font library for iOS with Swift3. Currently supports Font-Awesome.
+Upgrade of FontAwesomeKit Icon font library for iOS with Swift3. Currently supports Font-Awesome.
 
 ![FonAwesome](https://thumbs.gfycat.com/UnconsciousConsciousFishingcat-size_restricted.gif)
 
@@ -16,7 +16,7 @@ Upgrade of FonAwesomeKit Icon font library for iOS with Swift3. Currently suppor
   ![FonAwesome](https://thumbs.gfycat.com/UnsungAdeptClingfish-size_restricted.gif)
 
 ## How to use it
-### Which are extensions can use:
+### Extensions could be used for:
 - UILabel
 - UIImageView
 - UIButton
